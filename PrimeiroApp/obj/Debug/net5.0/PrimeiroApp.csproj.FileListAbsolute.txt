@@ -1,0 +1,15 @@
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/PrimeiroApp.deps.json
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/PrimeiroApp.runtimeconfig.json
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/PrimeiroApp.runtimeconfig.dev.json
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/PrimeiroApp.dll
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/ref/PrimeiroApp.dll
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/bin/Debug/net5.0/PrimeiroApp.pdb
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.csproj.AssemblyReference.cache
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.AssemblyInfoInputs.cache
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.AssemblyInfo.cs
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.csproj.CoreCompileInputs.cache
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.dll
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/ref/PrimeiroApp.dll
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.pdb
+/Users/natachawistuba/Documents/Desenvolvimento Software Visual/PrimeiroApp/obj/Debug/net5.0/PrimeiroApp.genruntimeconfig.cache
